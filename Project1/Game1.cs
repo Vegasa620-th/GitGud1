@@ -10,6 +10,7 @@ namespace Project1
         private SpriteBatch _spriteBatch;
 
         Vector2 _position;
+        Vector2 _rotation;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
