@@ -11,6 +11,7 @@ namespace Project1
 
         Vector2 _position;
         Vector2 _rotation;
+        Vector2 _scale;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
